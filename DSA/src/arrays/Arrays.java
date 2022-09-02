@@ -6,7 +6,7 @@ public class Arrays {
 	public static void main(String[] args) {
 		  Scanner sc = new Scanner(System.in);
 		  
-		  int arr[] = {2,3,1,-4,3,-2};
+		  int arr[] = {2,3,1,-4,3,-2,8};
 		  int n = arr.length;
 		  for (int i: arr) {
 			  System.out.print(i);
@@ -22,7 +22,7 @@ public class Arrays {
 //	            arr[i] = sc.nextInt();
 //	        }
 
-//	        int num = sc.nextInt();
+	        int num = sc.nextInt();
 //	        
 	        ///////////////////////////////////////////////////////////////
 //	        //search element in an array
